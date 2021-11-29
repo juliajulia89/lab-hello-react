@@ -15,7 +15,8 @@ function App(props) {
           <img src={logo} alt="logo" />
           <img src={menu} alt="menu" />
         </nav>
-        <h1>Say hello to ReactJS</h1>
+        <h1>Say hello to <br/>
+        ReactJS</h1>
         <p>
           You will learn how to use the most popular frontend library, and
           become a super Ninja developer.
